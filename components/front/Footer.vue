@@ -46,7 +46,19 @@
             >
               Update</v-btn
             >
-          </form></v-col
+          </form>
+          <v-btn style="margin-left: 2px; background-color: blue">
+            <v-icon>mdi-facebook</v-icon>
+          </v-btn>
+          <v-btn style="margin-left: 2px; background-color: black">
+            <v-icon>mdi-github</v-icon>
+          </v-btn>
+          <v-btn style="margin-left: 2px; background-color: red">
+            <v-icon>mdi-instagram</v-icon>
+          </v-btn>
+          <v-btn style="margin-left: 2px; background-color: lightblue">
+            <v-icon>mdi-twitter</v-icon>
+          </v-btn></v-col
         >
       </v-row>
     </v-container>
